@@ -1,0 +1,3 @@
+We disabled target.truncate()
+Let's see what happens.
+How many lines remained?
